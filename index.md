@@ -42,14 +42,20 @@ C++, C#, Python, Pytorch, DeepLearning, DirectX, Java, WinAPI, Reinforcement Lea
 Warping rectangle shaped traffic sign plate image by detecting edge - IPIU2020 제출 논문, 제 2저자<br>
 
 ### 포트폴리오
-Junk2D    - DirectX 기반의 2D 게임 프레임워크<br>
-ODD STEM  - Unity3D를 이용한 모바일게임<br>
-Classification of Animation Charactor - 딥러닝을 이용한 애니메이션 캐릭터 분류<br>
-딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석 - 현대 연구과제<br>
-volTexNet - 딥러닝을 이용한 리듬게임의 채보 제작<br>
+![junk2d](./Asset/3.png)<br>
+Junk2D<br>DirectX 기반의 2D 게임 프레임워크<br><br>
+![junk2d](./Asset/2.png)<br>
+ODD STEM<br>Unity3D를 이용한 모바일게임<br><br>
+![junk2d](https://github.com/GreenGarnets/Classification-of-Animation-Character/raw/master/Assets/6char.png.png)
+Classification of Animation Charactor<br>딥러닝을 이용한 애니메이션 캐릭터 분류<br><br>
+![junk2d](./Asset/1.png)<br>
+딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석<br><br>
+![junk2d](./Asset/4.png)
+volTexNet<br>
+딥러닝을 이용한 리듬게임의 채보 제작<br><br>
 
 ### Hobby
 인형 촬영, 게임<br>
 MDD 시라사카 코우메 2019.02.19 ~<br>
-카메라 캐논 450D -> 캐논 EOS M3 <br>
+카메라 캐논 450D -> 캐논 EOS M3 -> Nikon 810D <br>
 
