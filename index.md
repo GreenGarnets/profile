@@ -24,7 +24,7 @@ GStar 국제게임쇼 서강대학교 게임교육원 부스에 게임전시 - O
 서강대학교 게임교육원 게임소프트웨어 개발과 졸업<br>
 서강대학교 영상대학원 Mdeia Lab 석사과정 연구원 - 지도교수 정문열 교수님<br>
 서강대학교 영상대학원 VDS Lab 석사과정 연구원 - 지도교수 서용덕 교수님<br>
-영상처리 및 이해에 관한 워크샵 - IPIU2019, IPIU2020
+영상처리 및 이해에 관한 워크샵 - IPIU2019, IPIU2020<br>
 AI 그랜드 챌린지 Track 2 “문자인식” 8위(27팀 참가)<br>
 2019 RL Study Group<br>
 2020 C++ Design pattern Study Group<br>
@@ -35,6 +35,11 @@ AI 그랜드 챌린지 Track 2 “문자인식” 8위(27팀 참가)<br>
 C++, C#, Python, Pytorch, DeepLearning, DirectX, Java, WinAPI, Reinforcement Learning...
 ### Tool
 **visual studio Code**, Anaconda, docker, Unity3D, Unreal...
+
+### 논문
+딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석 - 석사 학위 논문<br>
+1D CNN을 이용한 리듬게임의 Note Placement 연구 - IPIU2020 제출 논문<br>
+Warping rectangle shaped traffic sign plate image by detecting edge - IPIU2020 제출 논문, 제 2저자<br>
 
 ### 포트폴리오
 Junk2D    - DirectX 기반의 2D 게임 프레임워크<br>
