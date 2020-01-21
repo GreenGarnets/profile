@@ -1,6 +1,9 @@
 ---
-layout: home
-limit: 10
-show_excerpts: true
-entries_layout: list
+layout: default
 ---
+
+## Welcome to another page
+
+_yay_
+
+[back](./)
