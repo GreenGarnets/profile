@@ -55,7 +55,7 @@ Classification of Animation Charactor<br>딥러닝을 이용한 애니메이션 
 딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석<br><br>
 <img src="./Assets/4.png">
 volTexNet<br>
-딥러닝을 이용한 리듬게임의 채보 제작<br><br>
+딥러닝을 이용한 리듬게임의 채보 제작 연구<br><br>
 </center>
 
 ### Hobby
