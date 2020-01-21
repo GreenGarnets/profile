@@ -50,7 +50,11 @@ Junk2D<br>DirectX 기반의 2D 게임 프레임워크<br>
 C++과 DirectX를 이용하여 전반적인 Game Framework를 설계하고 제작하였음<br>
 github에는 타 학생들이 응용하기 쉽도록 주석과 예제, 기본적인 형태로 업로드하였음<br><br><br>
 <img src="./Assets/2.png">
-ODD STEM<br>Unity3D를 이용한 모바일게임<br><br><br>
+ODD STEM<br>Unity3D를 이용한 모바일게임<br>
+unity3D를 이용하여 그래픽 디자이너, 기획자들과 팀을 이루어 제작한 모바일게임<br>
+쉐이더를 제외한 프로그래밍 작업을 전부 진행하였음<br>
+GSTAR 2017 서강대학교 게임교육원 부스에서 전시<br>
+플레이 영상 - https://www.youtube.com/watch?v=_cP8xAIMlCY<br><br><br>
 <img src="https://github.com/GreenGarnets/Classification-of-Animation-Character/raw/master/Assets/6char.png">
 Classification of Animation Charactor<br>딥러닝을 이용한 애니메이션 캐릭터 분류<br>
 Pytorch와 딥러닝의 Code에 대한 기본적인 이해를 목적으로 제작한 프로젝트<br><br><br>
@@ -58,7 +62,8 @@ Pytorch와 딥러닝의 Code에 대한 기본적인 이해를 목적으로 제�
 딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석<br>
 문자, 객체, Grouping의 학습용 데이터의 양식 지정과 전처리,<br>
 사용할 딥러닝 모델의 선택과 응용, 재학습과 학습한 결과의 후처리를 담당하였음<br>
-딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석 - 석사 학위 논문<br><br><br>
+딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석 - 석사 학위 논문<br>
+현대 Mnsoft 산학 연구 - SD Map 도로속성 생성을 위한 딥러닝 알고리즘 개발<br><br><br>
 
 <img src="./Assets/4.png">
 volTexNet<br>
