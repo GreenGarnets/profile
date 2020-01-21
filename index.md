@@ -46,16 +46,26 @@ Warping rectangle shaped traffic sign plate image by detecting edge - IPIU2020 �
 [포트폴리오 다운로드(논문, 소스코드, 영상)](https://drive.google.com/open?id=1vr2uj68nfmNupvZsdPojutsHZRpwOVyI)<br>
 
 <center><img src="./Assets/3.png">
-Junk2D<br>DirectX 기반의 2D 게임 프레임워크<br><br>
+Junk2D<br>DirectX 기반의 2D 게임 프레임워크<br>
+C++과 DirectX를 이용하여 전반적인 Game Framework를 설계하고 제작하였음<br>
+github에는 타 학생들이 응용하기 쉽도록 주석과 예제, 기본적인 형태로 업로드하였음<br><br><br>
 <img src="./Assets/2.png">
-ODD STEM<br>Unity3D를 이용한 모바일게임<br><br>
+ODD STEM<br>Unity3D를 이용한 모바일게임<br><br><br>
 <img src="https://github.com/GreenGarnets/Classification-of-Animation-Character/raw/master/Assets/6char.png">
-Classification of Animation Charactor<br>딥러닝을 이용한 애니메이션 캐릭터 분류<br><br>
+Classification of Animation Charactor<br>딥러닝을 이용한 애니메이션 캐릭터 분류<br>
+Pytorch와 딥러닝의 Code에 대한 기본적인 이해를 목적으로 제작한 프로젝트<br><br><br>
 <img src="./Assets/1.png">
-딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석<br><br>
+딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석<br>
+문자, 객체, Grouping의 학습용 데이터의 양식 지정과 전처리,<br>
+사용할 딥러닝 모델의 선택과 응용, 재학습과 학습한 결과의 후처리를 담당하였음<br>
+딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석 - 석사 학위 논문<br><br><br>
+
 <img src="./Assets/4.png">
 volTexNet<br>
-딥러닝을 이용한 리듬게임의 채보 제작 연구<br><br>
+딥러닝을 이용한 리듬게임의 채보 제작 연구<br>
+산학연구과제 종료 후 진행된 1인 프로젝트로 학습을 위해 .ksh파일로 된 데이터의 전처리와<br>
+모델의 설계, 설계한 모델을 pytorch로 코딩하여 학습 후 결과의 후처리를 하였음<br>
+1D CNN을 이용한 리듬게임의 Note Placement 연구 - IPIU2020<br><br><br>
 </center>
 
 ### Hobby
