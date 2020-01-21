@@ -12,22 +12,23 @@ layout: default
 ### 교육
 2015.03 ~ 2018.02 서강대학교 게임교육원<br>
 2018.03 ~ 2020.02 서강대학교 영상대학원<br>
-자격증 - 게임프로그래밍전문가<br>
+게임프로그래밍전문가 자격증 보유(한국콘텐츠진흥원)<br>
 
-### 주요 경력
+### 경험
 인디게임 위크앤드 1회, 2회, 해커톤 다수 참가<br>
 [미래창조과학부 소프트웨어 마에스트로 4기](https://swm.recruiter.co.kr/appsite/company/index)<br>
 C++ Korea 운영진 2기<br>
-GStar 국제게임쇼 서강대학교 게임교육원 부스에 게임전시 - ODD STEM<br>
 NDC 2017 2018 2019<br>
-영상처리 및 이해에 관한 워크샵 - IPIU2019, IPIU2020
+수원공업고등학교 기능경기대회반 강사(C, C++, GameFramework)<br>
+GStar 국제게임쇼 서강대학교 게임교육원 부스에 게임전시 - ODD STEM<br>
 서강대학교 게임교육원 게임소프트웨어 개발과 졸업<br>
-서강대학교 게임교육원 Mdeia Lab 석사과정 연구원<br>
-서강대학교 영상대학원 VDS Lab 석사과정 연구원<br>
+서강대학교 영상대학원 Mdeia Lab 석사과정 연구원 - 지도교수 정문열 교수님<br>
+서강대학교 영상대학원 VDS Lab 석사과정 연구원 - 지도교수 서용덕 교수님<br>
+영상처리 및 이해에 관한 워크샵 - IPIU2019, IPIU2020
 AI 그랜드 챌린지 Track 2 “문자인식” 8위(27팀 참가)<br>
 2019 RL Study Group<br>
 2020 C++ Design pattern Study Group<br>
-현대 Mnsoft 산학 연구과제 - SD Map 도로속성 생성을 위한 딥러닝 알고리즘 개발<br>
+현대 Mnsoft 산학 연구 - SD Map 도로속성 생성을 위한 딥러닝 알고리즘 개발<br>
 ~~다수의 컴공 친구들 과제 도와줌~~<br>
 
 ### 언어&Tech 
