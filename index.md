@@ -56,7 +56,7 @@ volTexNet<br>
 딥러닝을 이용한 리듬게임의 채보 제작<br><br>
 </center>
 <br>
-포트폴리오 다운로드 : https://drive.google.com/open?id=1vr2uj68nfmNupvZsdPojutsHZRpwOVyI<br><br>
+[포트폴리오 다운로드(논문, 소스코드, 영상)](https://drive.google.com/open?id=1vr2uj68nfmNupvZsdPojutsHZRpwOVyI)<br>
 
 ### Hobby
 인형 촬영, 게임<br>
