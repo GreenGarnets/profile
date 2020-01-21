@@ -51,7 +51,7 @@ C++과 DirectX를 이용하여 전반적인 Game Framework를 설계하고 제�
 github에는 타 학생들이 응용하기 쉽도록 주석과 예제, 기본적인 형태로 업로드하였음<br><br><br>
 <img src="./Assets/2.png">
 ODD STEM<br>Unity3D를 이용한 모바일게임<br>
-unity3D를 이용하여 그래픽 디자이너, 기획자들과 팀을 이루어 제작한 모바일게임<br>
+그래픽 디자이너, 기획자들과 팀으로 unity3D를 이용하여 제작한 모바일게임<br>
 쉐이더를 제외한 프로그래밍 작업을 전부 진행하였음<br>
 GSTAR 2017 서강대학교 게임교육원 부스에서 전시<br>
 플레이 영상 - https://www.youtube.com/watch?v=_cP8xAIMlCY<br><br><br>
