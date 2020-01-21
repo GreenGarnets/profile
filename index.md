@@ -12,7 +12,7 @@ layout: default
 ### 교육
 2015.03 ~ 2018.02 서강대학교 게임교육원<br>
 2018.03 ~ 2020.02 서강대학교 영상대학원<br>
-게임프로그래밍전문가 자격증 보유(한국콘텐츠진흥원)<br>
+게임프로그래밍전문가 자격증(한국콘텐츠진흥원)<br>
 
 ### 경험
 인디게임 위크앤드 1회, 2회, 해커톤 다수 참가<br>
@@ -42,17 +42,19 @@ C++, C#, Python, Pytorch, DeepLearning, DirectX, Java, WinAPI, Reinforcement Lea
 Warping rectangle shaped traffic sign plate image by detecting edge - IPIU2020 제출 논문, 제 2저자<br>
 
 ### 포트폴리오
-![junk2d](./Assets/3.png)<br>
+
+<center><img src="./Assets/3.png">
 Junk2D<br>DirectX 기반의 2D 게임 프레임워크<br><br>
-![junk2d](./Assets/2.png)<br>
+<img src="./Assets/2.png">
 ODD STEM<br>Unity3D를 이용한 모바일게임<br><br>
-![junk2d](https://github.com/GreenGarnets/Classification-of-Animation-Character/raw/master/Assets/6char.png)
+<img src="https://github.com/GreenGarnets/Classification-of-Animation-Character/raw/master/Assets/6char.png">
 Classification of Animation Charactor<br>딥러닝을 이용한 애니메이션 캐릭터 분류<br><br>
-![junk2d](./Assets/1.png)<br>
+<img src="./Assets/1.png">
 딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석<br><br>
-![junk2d](./Assets/4.png)
+<img src="./Assets/4.png">
 volTexNet<br>
 딥러닝을 이용한 리듬게임의 채보 제작<br><br>
+</center>
 
 ### Hobby
 인형 촬영, 게임<br>
