@@ -43,6 +43,8 @@ Warping rectangle shaped traffic sign plate image by detecting edge - IPIU2020 �
 
 ### 포트폴리오
 
+[포트폴리오 다운로드(논문, 소스코드, 영상)](https://drive.google.com/open?id=1vr2uj68nfmNupvZsdPojutsHZRpwOVyI)<br>
+
 <center><img src="./Assets/3.png">
 Junk2D<br>DirectX 기반의 2D 게임 프레임워크<br><br>
 <img src="./Assets/2.png">
@@ -55,8 +57,6 @@ Classification of Animation Charactor<br>딥러닝을 이용한 애니메이션 
 volTexNet<br>
 딥러닝을 이용한 리듬게임의 채보 제작<br><br>
 </center>
-<br>
-[포트폴리오 다운로드(논문, 소스코드, 영상)](https://drive.google.com/open?id=1vr2uj68nfmNupvZsdPojutsHZRpwOVyI)<br>
 
 ### Hobby
 인형 촬영, 게임<br>
