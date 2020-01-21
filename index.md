@@ -63,7 +63,7 @@ Pytorch와 딥러닝의 Code에 대한 기본적인 이해를 목적으로 제�
 <img src="./Assets/4.png">
 volTexNet<br>
 딥러닝을 이용한 리듬게임의 채보 제작 연구<br>
-산학연구과제 종료 후 진행된 1인 프로젝트로 학습을 위해 .ksh파일로 된 데이터의 전처리와<br>
+산학연구과제 종료 후 진행된 1인 프로젝트로 학습을 위해 librosa를 이용하여 .ksh파일로 된 데이터의 전처리와<br>
 모델의 설계, 설계한 모델을 pytorch로 코딩하여 학습 후 결과의 후처리를 하였음<br>
 1D CNN을 이용한 리듬게임의 Note Placement 연구 - IPIU2020<br><br><br>
 </center>
