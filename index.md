@@ -43,7 +43,7 @@ Warping rectangle shaped traffic sign plate image by detecting edge - IPIU2020 �
 
 ### 포트폴리오
 
-[포트폴리오 다운로드(논문, 소스코드, 영상)](https://drive.google.com/open?id=1vr2uj68nfmNupvZsdPojutsHZRpwOVyI)<br>
+[포트폴리오 다운로드(논문, 소스코드, 영상)](https://drive.google.com/file/d/1vr2uj68nfmNupvZsdPojutsHZRpwOVyI/view?usp=sharing)<br>
 
 <center><img src="./Assets/3.png">
 <strong>Junk2D</strong><br>DirectX 기반의 2D 게임 프레임워크<br>
