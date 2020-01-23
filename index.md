@@ -51,13 +51,13 @@ C++과 DirectX를 이용하여 전반적인 Game Framework를 설계하고 제�
 github에는 타 학생들이 응용하기 쉽도록 주석과 최소한의 예제를 포함한 기본적인 형태로 업로드하였음<br><br><br>
 <img src="./Assets/2.png">
 <strong>ODD STEM</strong><br>Unity3D를 이용한 모바일게임<br>
-그래픽 디자이너, 기획자들과 팀으로 unity3D를 이용하여 제작한 모바일게임<br>
+그래픽 디자이너, 기획자들과 팀으로 unity3D를 이용하여 제작한 모바일게임
 쉐이더를 제외한 프로그래밍 작업을 전부 진행하였음<br><br>
 GSTAR 2017 서강대학교 게임교육원 부스 전시<br>
 플레이 영상 - https://www.youtube.com/watch?v=_cP8xAIMlCY<br><br><br>
 <img src="https://github.com/GreenGarnets/Classification-of-Animation-Character/raw/master/Assets/6char.png">
 Classification of Animation Charactor<br><strong>딥러닝을 이용한 애니메이션 캐릭터 분류</strong><br>
-Pytorch와 딥러닝의 Code에 대한 기본적인 이해를 목적으로 pytorch-cifar를 참조하여<br>
+Pytorch와 딥러닝의 Code에 대한 기본적인 이해를 목적으로 pytorch-cifar를 참조하여
 ShuffleNetV2 신경망을 이용해 제작한 프로젝트<br><br><br>
 <img src="./Assets/1.png">
 <strong>딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석</strong><br>
