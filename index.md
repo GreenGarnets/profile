@@ -56,7 +56,7 @@ github에는 타 학생들이 응용하기 쉽도록 주석과 최소한의 예�
 GSTAR 2017 서강대학교 게임교육원 부스 전시<br>
 플레이 영상 - https://www.youtube.com/watch?v=_cP8xAIMlCY<br><br><br>
 <img src="https://github.com/GreenGarnets/Classification-of-Animation-Character/raw/master/Assets/6char.png">
-Classification of Animation Charactor<br><strong>딥러닝을 이용한 애니메이션 캐릭터 분류</strong><br>
+<strong>Classification of Animation Charactor</strong><br>딥러닝을 이용한 애니메이션 캐릭터 분류<br>
 Pytorch와 딥러닝의 Code에 대한 기본적인 이해를 목적으로 pytorch-cifar를 참조하여
 ShuffleNetV2 신경망을 이용해 제작한 프로젝트<br><br><br>
 <img src="./Assets/1.png">
