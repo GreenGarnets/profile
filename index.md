@@ -46,8 +46,8 @@ Warping rectangle shaped traffic sign plate image by detecting edge - IPIU2020 �
 [포트폴리오 다운로드(논문, 소스코드, 영상)](https://drive.google.com/file/d/1vr2uj68nfmNupvZsdPojutsHZRpwOVyI/view?usp=sharing)<br>
 
 <center><img src="./Assets/3.png">
-<strong>Junk2D</strong><br>DirectX 기반의 2D 게임 프레임워크<br>
-C++과 DirectX를 이용하여 전반적인 Game Framework를 설계하고 제작한 프로젝트로 타 학생들이 응용하기 쉽도록 많은 주석과 최소한의 예제를 포함한 기본적인 형태로 만들어짐<br><br><br>
+<strong><a href="https://github.com/GreenGarnets/Junk2D">Junk2D</a></strong><br>DirectX 기반의 2D 게임 프레임워크<br>
+C++과 DirectX를 이용하여 전반적인 Game Framework를 설계하고 제작한 프로젝트로 타 학생들이 응용하기 쉽도록 많은 주석과 최소한의 예제를 포함한 기본적인 형태로 만들어짐<br>사용 되어 제작되었던 게임 Red Riding Hood https://www.youtube.com/watch?v=Hs3wQ_BM6AU&feature=emb_logo<br><br><br>  
 <img src="./Assets/2.png">
 <strong>ODD STEM</strong><br>Unity3D를 이용한 모바일게임<br>
 그래픽 디자이너, 기획자들과 팀으로 unity3D를 이용하여 제작한 모바일게임
@@ -55,7 +55,7 @@ C++과 DirectX를 이용하여 전반적인 Game Framework를 설계하고 제�
 GSTAR 2017 서강대학교 게임교육원 부스 전시<br>
 플레이 영상 - https://www.youtube.com/watch?v=_cP8xAIMlCY<br><br><br>
 <img src="https://github.com/GreenGarnets/Classification-of-Animation-Character/raw/master/Assets/6char.png">
-<strong>Classification of Animation Charactor</strong><br>딥러닝을 이용한 애니메이션 캐릭터 분류<br>
+<strong><a href="https://github.com/GreenGarnets/Classification-of-Animation-Character">Classification of Animation Charactor</a></strong><br>딥러닝을 이용한 애니메이션 캐릭터 분류<br>
 Pytorch와 딥러닝의 Code에 대한 기본적인 이해를 목적으로 pytorch-cifar를 참조하여
 ShuffleNetV2 신경망을 이용해 제작한 프로젝트<br><br><br>
 <img src="./Assets/1.png">
@@ -66,7 +66,7 @@ ShuffleNetV2 신경망을 이용해 제작한 프로젝트<br><br><br>
 현대 Mnsoft 산학 연구 - SD Map 도로속성 생성을 위한 딥러닝 알고리즘 개발<br><br><br>
 
 <img src="./Assets/4.png">
-<strong>volTexNet</strong><br>
+<strong><a href="https://github.com/GreenGarnets/voltexNet">volTexNet</a></strong><br>
 딥러닝을 이용한 리듬게임의 채보 제작 연구<br>
 산학연구과제 종료 후 진행된 1인 프로젝트로 학습을 위해 librosa를<br>
 이용하여 .ksh파일로 된 Sound Voltex 리듬게임의 채보 데이터의 전처리와<br>
