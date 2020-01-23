@@ -47,8 +47,7 @@ Warping rectangle shaped traffic sign plate image by detecting edge - IPIU2020 �
 
 <center><img src="./Assets/3.png">
 <strong>Junk2D</strong><br>DirectX 기반의 2D 게임 프레임워크<br>
-C++과 DirectX를 이용하여 전반적인 Game Framework를 설계하고 제작한 프로젝트<br>
-github에는 타 학생들이 응용하기 쉽도록 주석과 최소한의 예제를 포함한 기본적인 형태로 업로드하였음<br><br><br>
+C++과 DirectX를 이용하여 전반적인 Game Framework를 설계하고 제작한 프로젝트로 타 학생들이 응용하기 쉽도록 많은 주석과 최소한의 예제를 포함한 기본적인 형태로 만들어짐<br><br><br>
 <img src="./Assets/2.png">
 <strong>ODD STEM</strong><br>Unity3D를 이용한 모바일게임<br>
 그래픽 디자이너, 기획자들과 팀으로 unity3D를 이용하여 제작한 모바일게임
