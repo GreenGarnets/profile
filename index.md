@@ -57,7 +57,8 @@ GSTAR 2017 서강대학교 게임교육원 부스 전시<br>
 플레이 영상 - https://www.youtube.com/watch?v=_cP8xAIMlCY<br><br><br>
 <img src="https://github.com/GreenGarnets/Classification-of-Animation-Character/raw/master/Assets/6char.png">
 Classification of Animation Charactor<br><strong>딥러닝을 이용한 애니메이션 캐릭터 분류</strong><br>
-Pytorch와 딥러닝의 Code에 대한 기본적인 이해를 목적으로 pytorch-cifar를 참조하여 ShuffleNetV2 신경망을 이용해 제작한 프로젝트<br><br><br>
+Pytorch와 딥러닝의 Code에 대한 기본적인 이해를 목적으로 pytorch-cifar를 참조하여<br>
+ShuffleNetV2 신경망을 이용해 제작한 프로젝트<br><br><br>
 <img src="./Assets/1.png">
 <strong>딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석</strong><br>
 문자, 객체, Grouping의 학습용 데이터의 양식 지정과 전처리,<br>
