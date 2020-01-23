@@ -25,7 +25,7 @@ GStar 국제게임쇼 서강대학교 게임교육원 부스에 게임전시 - O
 서강대학교 영상대학원 Mdeia Lab 석사과정 연구원 - 지도교수 정문열 교수님<br>
 서강대학교 영상대학원 VDS Lab 석사과정 연구원 - 지도교수 서용덕 교수님<br>
 영상처리 및 이해에 관한 워크샵 - IPIU2019, IPIU2020<br>
-[AI 그랜드 챌린지 Track 2 “문자인식” 8위(27팀 참가)](https://www.ai-challenge.kr/)<br>
+[AI 그랜드 챌린지 Track 2 “문자인식” 8위(27팀 참가) - 팀 요시그랜드시즌](https://www.ai-challenge.kr/sub03/view/id/26)<br>
 2019 RL Study Group<br>
 2020 C++ Design pattern Study Group<br>
 현대 Mnsoft 산학 연구 - SD Map 도로속성 생성을 위한 딥러닝 알고리즘 개발<br>
