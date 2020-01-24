@@ -29,6 +29,7 @@ GStar 국제게임쇼 서강대학교 게임교육원 부스에 게임전시 - O
 2019 RL Study Group<br>
 2020 C++ Design pattern Study Group<br>
 현대 Mnsoft 산학 연구 - SD Map 도로속성 생성을 위한 딥러닝 알고리즘 개발<br>
+프로그래머스 레벨 2 통과
 ~~다수의 컴공 친구들 과제 도와줌~~<br>
 
 ### 언어&Tech 
