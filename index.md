@@ -38,9 +38,9 @@ C++, C#, Python, Pytorch, DeepLearning, DirectX, Java, WinAPI, Reinforcement Lea
 visual studio Code, Anaconda, docker, Unity3D, Unreal...
 
 ### 논문
-[딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석](http://dcollection.sogang.ac.kr:8089/dcollection/srch/srchDetail/000000065074?navigationSize=10&query=%2B%28%28all%3A%EA%B6%8C%EB%AF%BC%EC%84%AD%29%29&pageSize=10&insCode=211029&searchWhere1=all&searchTotalCount=0&sortDir=desc&pageNum=1&rows=10&searthTotalPage=0&treePageNum=1&sortField=score&start=0&ajax=false&searchText=%5B%EC%A0%84%EC%B2%B4%3A%EA%B6%8C%EB%AF%BC%EC%84%AD%5D&searchKeyWord1=%EA%B6%8C%EB%AF%BC%EC%84%AD) - 석사 학위 논문<br>
-1D CNN을 이용한 리듬게임의 Note Placement 연구 - IPIU2020 제출 논문<br>
-Warping rectangle shaped traffic sign plate image by detecting edge - IPIU2020 제출 논문, 제 2저자<br>
+[딥 러닝을 이용한 도로 표지 이미지의 정보 획득 및 분석](http://dcollection.sogang.ac.kr:8089/dcollection/srch/srchDetail/000000065074?navigationSize=10&query=%2B%28%28all%3A%EA%B6%8C%EB%AF%BC%EC%84%AD%29%29&pageSize=10&insCode=211029&searchWhere1=all&searchTotalCount=0&sortDir=desc&pageNum=1&rows=10&searthTotalPage=0&treePageNum=1&sortField=score&start=0&ajax=false&searchText=%5B%EC%A0%84%EC%B2%B4%3A%EA%B6%8C%EB%AF%BC%EC%84%AD%5D&searchKeyWord1=%EA%B6%8C%EB%AF%BC%EC%84%AD)<br>
+1D CNN을 이용한 리듬게임의 Note Placement 연구<br>
+Warping rectangle shaped traffic sign plate image by detecting edge<br>
 
 ### 포트폴리오
 
