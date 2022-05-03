@@ -8,6 +8,7 @@ layout: default
 이름 - 권민섭<br>
 생년월일 - 1996/01/06<br>
 이메일 - kmu9842@naver.com<br>
+NEXONGames / MX Studio / EPD 직속 / ML엔지니어
 
 ### 교육
 2015.03 ~ 2018.02 서강대학교 게임교육원<br>
@@ -32,8 +33,14 @@ GStar 국제게임쇼 서강대학교 게임교육원 부스에 게임전시 - O
 프로그래머스 스킬체크 레벨 3 PASS<br>
 ~~다수의 컴공 친구들 과제 도와줌~~<br>
 
+### 경력
+2020.02 ~ 넥슨게임즈 MXStudio(블루아카이브)<br>
+https://www.inven.co.kr/webzine/news/?news=265523<br>
+NDC 2021 비공개 세션 발표, 최우수 세션 선정<br>
+NDC 2022
+
 ### 언어&Tech 
-C++, C#, Python, Pytorch, DeepLearning, DirectX, Java, WinAPI, Reinforcement Learning...
+C++, C#, Python, Pytorch, DeepLearning, DirectX, Java, WinAPI, Reinforcement Learning, Docker, AWS, Blazor...
 ### Tool
 visual studio Code, Anaconda, docker, Unity3D, Unreal...
 
